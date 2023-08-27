@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #1d1d1d;
+	flex-wrap: wrap;
+}
+
+nav {
+    display: flex;
+	align-items: center;
+	padding-top: 20px;
+	padding-left: 5;
+	padding-right: 5;
+	font-weight: bold;
+	height: 120px;
+	position: sticky;
+	top: 0px;
+	background-color: #343433;
+}
+
+h1{
+	color: white;
+	font-size: 45px;
+}
+
+ul li {
+	display: inline-block;
+	padding: 0px 20px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+    color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: aqua;
+}
+
+img {
+	height: 120px;
+	text-align: left;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 10px;
+
+}
+
+.textolore{
+	margin-top: 80px;
+	margin-left: 400px;
+    width: 530px;
+	color: aliceblue;
+	font-family: cursive;
+	text-align: center;
+	min-width: 300px;
+}
+
+.lore{
+	margin-top: 10px;
+}
+
+.politica{
+    text-align: center;
+	color: aliceblue;
+	font-family: cursive;
+	text-align: center;
+    text-shadow: #1d1d1d;
+	justify-content: space-between;
+	margin-left: 90px;
+}
+
+.seguridad{
+    text-align: center;
+	color: aliceblue;
+	font-family: cursive;
+	text-align: center;
+    text-shadow: #1d1d1d;
+	justify-content: space-between;
+	margin-left: 100px;
+}
+
+.reporte{
+    text-align: center;
+	color: aliceblue;
+	font-family: cursive;
+	text-align: center;
+    text-shadow: #1d1d1d;
+	justify-content: space-between;
+	margin-left: 100px;
+}
+
+.actualizaciones{
+    text-align: center;
+	color: aliceblue;
+	font-family: cursive;
+	text-align: center;
+    text-shadow: #1d1d1d;
+	justify-content: space-between;
+	margin-left: 100px;
+}
+
+.discord {
+    margin-left: 400px;
+}
+
+footer{
+	margin-top: 70px;
+}
+
+.reglas{
+	margin-top: 80px;
+	margin-left: 280px;
+    width: 800px;
+	color: aliceblue;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	text-align: center;
+	min-width: 300px;
+	font-size: 18px;
+}
+
+.accordion {
+	margin-top: 80px;
+}
